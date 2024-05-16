@@ -1,0 +1,27 @@
+Please read these notes carefully before completing your application
+
+****************** HOW TO INSTALL *********************
+- Go to https://smartpanelsmm.com/docs/smartpanel.php for How to install
+
+****************** Admin Login form *********************
+- https://yourdomain.com/admin
+
+****************** FOR NEW CLIETNS *********************
+- Using install.zip to get new installation or re-install.
+
+****************** FOR OLD CLIENTS *********************
+- Please go to https://smartpanelsmm.com/docs/smartpanel.php for How to update
+- Clear Your Browser Cache after updating.
+- New Admin login form: https://yourdomain.com/admin
+- You should backup the current Version before updating to new version.
+- Need to re-config cronjobs link again see documentation guide for more details.
+- DELETE these folders in this path: 
+ + app\modules: api_provider, custom_page, file_manager, language, module, news, notifaction, payments, payments_bonuses, subscribers, users
+
+---------------------------------------------------------------------------------------
+If you are using the older version as 3.2, 3.3, 3.4 and you want to upgrade to 4.0, 
+please contact to this email: smartpanelsmm@gmail.com for more details
+
+
+
+ 
